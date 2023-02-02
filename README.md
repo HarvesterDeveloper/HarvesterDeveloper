@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **KortezJatkov/KortezJatkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><b>Harvester Developer a.k.a. Kortez Jatkov, Victor Liberty</b> — indie game developer под операционную систему android.<br>
+Если вам нужно связаться со мной, то стоит заглянуть на <a href="https://hardev.ru">hardev.ru</a>.</p>
